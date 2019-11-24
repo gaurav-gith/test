@@ -1,2 +1,3 @@
-# test
-Test of Jenkins project referring Valaxy Projects
+# maven-project
+
+Simple Maven Project
